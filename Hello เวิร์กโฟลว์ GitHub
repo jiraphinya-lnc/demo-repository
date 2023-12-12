@@ -1,0 +1,4 @@
+
+git add .
+git commit -m "ข้อความอธิบายการคอมมิต"
+git push origin main
